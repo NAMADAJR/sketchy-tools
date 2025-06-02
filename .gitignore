@@ -1,0 +1,21 @@
+# Virtual environments
+env/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables file
+.env
+
+# VSCode settings (optional if you don’t want to share them)
+.vscode/
+
+# Dependency files (optional — keep Pipfile.lock if you want locked installs)
+Pipfile.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
